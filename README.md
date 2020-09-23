@@ -8,7 +8,7 @@ I've been busy teaching myself to be a web developer. It's starting to get reall
 - 💬 Ask me about learning to code ... or ultralight hiking gear, or woodworking
 - ⚡ Fun fact: I once saw Oasis perform in a pub
 
-If you're interested in my learning journey so far you can check out my [Learning Tracker][tracker] or head over to [mikeback.me][website] to see my portfolio or get in touch
+Check out my [Learning Tracker][tracker] or head over to [mikeback.me][website] to see my portfolio or get in touch
 
 [tracker]: https://github.com/MakeItBack/Learning-Tracker
 [website]: https://www.mikeback.me
