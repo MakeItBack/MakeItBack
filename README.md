@@ -1,18 +1,14 @@
-### Hi there 👋
+## Hello, I'm Mike 👋
+I've been busy teaching myself to be a web developer. It's starting to get really fun!<br>
 
-I've got a profile readme file! It will be better than this next time you visit!
+- 🔭 I’m currently working on making my sites more mobile responsive
+- 🌱 I’m currently learning advanced Javascript
+- 👯 I’m looking to collaborate on something fun and worthwhile
+- 🤔 I’m looking for help with getting a dev job
+- 💬 Ask me about learning to code ... or ultralight hiking gear, or woodworking
+- ⚡ Fun fact: I once saw Oasis perform in a pub
 
-<!--
-**MakeItBack/MakeItBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're interested in my learning journey so far you can check out my [Learning Tracker][tracker] or head over to [mikeback.me][website] to see my portfolio or get in touch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[tracker]: https://github.com/MakeItBack/Learning-Tracker
+[website]: https://www.mikeback.me
