@@ -1,5 +1,6 @@
 <img alt="hello I'm Mike" src="banner.gif">
-## Hello, I'm Mike 👋
+
+<!--## Hello, I'm Mike 👋  -->
 I've been busy teaching myself to be a web developer. It's starting to get really fun!<br>
 
 - 🔭 I’m currently working on making my sites more mobile responsive
