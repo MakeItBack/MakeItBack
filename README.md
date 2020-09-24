@@ -1,5 +1,5 @@
 
-<img alt="Banner image with text: Hello I'm Mike. Outdoor icons background" src="banner.gif">
+<img alt="Banner image with cutout text: Hello I'm Mike." src="banner.gif">
 
 👋 I've been busy teaching myself to be a web developer. **It's starting to get really fun!**<br>
 
