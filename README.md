@@ -3,7 +3,7 @@
 
 👋 I've been busy teaching myself to be a web developer. **It's starting to get really fun!**<br>
 
-- 🔭 I’m currently working on making my sites more mobile responsive
+- 🔭 I’m currently working on making my sites look great on mobile
 - 🌱 I’m currently learning advanced Javascript
 - 👯 I’m looking to collaborate on something fun and worthwhile
 - 🤔 I’m looking for help with getting a dev job
