@@ -9,6 +9,7 @@
 - 🤔 I’m looking for help with getting a dev job
 - 💬 Ask me about learning to code ... or ultralight hiking gear, or woodworking
 - ⚡ Fun fact: I once saw Oasis play in the back room of a pub
+- :mega: You can contact me on [WhatsApp](https://wa.me/61438651533) (or check out my portfolio page for more options)
 
 ### Check out my [Learning Tracker][tracker] or head over to [mikeback.me][website] to see my portfolio or to get in touch
 
