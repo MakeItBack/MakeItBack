@@ -11,8 +11,15 @@
 - ⚡ Fun fact: I once saw Oasis play in the back room of a pub
 - :mega: You can contact me on [WhatsApp](https://wa.me/61438651533) (or check out my portfolio page for more options)
 
-### Check out my [Learning Tracker][tracker] or head over to [mikeback.me][website] to see my portfolio or to get in touch
+#### Check out my [Learning Tracker][tracker] or head over to [mikeback.me][website] to see my portfolio or to get in touch
+
+___
+
+## Tools and Tech
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/HTML5.svg" />
+
 
 
 [tracker]: https://github.com/MakeItBack/Learning-Tracker
 [website]: https://www.mikeback.me
+
