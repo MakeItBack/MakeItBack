@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I once saw Oasis play in the back room of a pub
 - :mega: You can contact me on [WhatsApp](https://wa.me/61438651533) (or check out my portfolio page for more options)
 
-#### Check out my [Learning Tracker][tracker] or head over to [mikeback.me][website] to see my portfolio or to get in touch
+#### Check out my [Learning Tracker :chart_with_upwards_trend:][tracker] or head over to [mikeback.me][website] to see my [portfolio][website] or to get in touch
 
 ___
 
@@ -23,11 +23,12 @@ ___
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][website]
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][website]
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][website]
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][website]
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][website]
+[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />][website]
+[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
+[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 
 
 [tracker]: https://github.com/MakeItBack/Learning-Tracker
