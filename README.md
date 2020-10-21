@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on making my sites look great on mobile
 - 🌱 I’m currently learning advanced Javascript
-- 👯 I’m looking to collaborate on something fun and worthwhile
+- 👯 I’m contributing to open source through [Hacktoberfest!][Hacktoberfest]
 - 🤔 I’m looking for help with getting a dev job
 - 💬 Ask me about learning to code ... or ultralight hiking gear, or woodworking
 - ⚡ Fun fact: I once saw Oasis play in the back room of a pub
@@ -33,4 +33,5 @@ ___
 
 [tracker]: https://github.com/MakeItBack/Learning-Tracker
 [website]: https://www.mikeback.me
+[hacktoberfest]: https://hacktoberfest.digitalocean.com/
 
