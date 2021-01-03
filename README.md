@@ -28,13 +28,13 @@ ___
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][website]
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />][website]
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
+[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]<br>
 
 ___
 
 ### Other Stuff
 
-[<img align="left" height="50" width="50" alt="Hacktoberfest 2020 Forest badge" src="Tree Badge.png" />][hacktoberfest]
+[<img align="left" height="100" width="100" alt="Hacktoberfest 2020 Forest badge" src="Tree Badge.png" />][hacktoberfest]<br>
 
 [tracker]: https://github.com/MakeItBack/Learning-Tracker
 [website]: https://www.mikeback.me
