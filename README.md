@@ -34,7 +34,7 @@ ___
 
 ### Other Stuff
 
-[<img align="left" height="100" width="100" alt="Hacktoberfest 2020 Forest badge" src="Tree Badge.png" />][hacktoberfest]<br>
+[<img align="left" height="150" width="150" alt="Hacktoberfest 2020 Forest badge" src="Tree Badge.png" />][hacktoberfest]<br>
 
 [tracker]: https://github.com/MakeItBack/Learning-Tracker
 [website]: https://www.mikeback.me
