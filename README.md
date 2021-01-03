@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my business
 - 🌱 I’m getting my JS bang up to date on [The Modern Javascript Bootcamp][Bootcamp]
 - 👯 I’d love to contribute to a vanilla JS project
-- 🤔 I’m looking for help landing a junior dev job
+- 🤔 I’m looking for help landing a junior dev job in Melbourne
 - 💬 Ask me about being a self-taught web dev ... or ultralight hiking gear, or woodworking
 - ⚡ Fun fact: I once saw Oasis play in the back room of a pub
 - :mega: You can contact me on [WhatsApp](https://wa.me/61438651533) (or check out my portfolio page for more options)
