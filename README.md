@@ -3,7 +3,7 @@
 
 👋 I've been busy teaching myself to be a web developer. **It's starting to get really fun!**<br>
 
-- 🔭 I’m currently playing with the Star Wars API to practice with Async/Await
+- 🔭 I’m currently playing with the [Star Wars API](https://github.com/Juriy/swapi) to practice with Async/Await
 - 🌱 I’m learning the JavaScript class syntax on [The Modern Javascript Bootcamp][Bootcamp]
 - 👯 I’d love to contribute to a vanilla JS project
 - 🤔 I’m looking for help landing a junior dev job in Melbourne
