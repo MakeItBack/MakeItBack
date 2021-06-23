@@ -4,7 +4,7 @@
 👋 I've been busy teaching myself to be a web developer. **It's starting to get really fun!**<br>
 
 - 🔭 I’m currently playing with the [Star Wars API](https://github.com/Juriy/swapi) to practice with Async/Await
-- 🌱 I’m learning the JavaScript class syntax on [The Modern Javascript Bootcamp][Bootcamp]
+- 🌱 I’m diving into React.js on [The Modern React Bootcamp][Bootcamp]
 - 👯 I’d love to contribute to a vanilla JS project
 - 🤔 I’m looking for help landing a junior dev job in Melbourne
 - 💬 Ask me about being a self-taught web dev ... or [ultralight hiking gear](https://www.lighterfasterhire.com.au), or woodworking
@@ -39,5 +39,5 @@ ___
 [tracker]: https://github.com/MakeItBack/Learning-Tracker
 [website]: https://www.mikeback.me
 [hacktoberfest]: https://hacktoberfest.digitalocean.com/
-[Bootcamp]: https://www.udemy.com/course/javascript-beginners-complete-tutorial/
+[Bootcamp]: https://www.udemy.com/course/modern-react-bootcamp/
 
