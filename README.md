@@ -3,7 +3,7 @@
 
 👋 I've been busy teaching myself to be a web developer. **It's starting to get really fun!**<br>
 
-- 🔭 I’ve just built a [Trello utility app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](#) to delete multiple boards in one quick operation
+- 🔭 I’ve just built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
 - 🌱 I’m diving into React.js on [The Modern React Bootcamp][Bootcamp]
 - 👯 I’d love to contribute to a vanilla JS project
 - 🤔 I’m looking for help landing a junior dev job in Melbourne
