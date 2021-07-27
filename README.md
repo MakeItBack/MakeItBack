@@ -3,7 +3,7 @@
 
 👋 I've been busy teaching myself to be a web developer. **It's starting to get really fun!**<br>
 
-- 🔭 I’m currently playing with the [Star Wars API](https://github.com/Juriy/swapi) to practice with Async/Await
+- 🔭 I’ve just built a [Trello utility app](#) that uses the [Trello API](#) to delete multiple boards in one quick operation
 - 🌱 I’m diving into React.js on [The Modern React Bootcamp][Bootcamp]
 - 👯 I’d love to contribute to a vanilla JS project
 - 🤔 I’m looking for help landing a junior dev job in Melbourne
