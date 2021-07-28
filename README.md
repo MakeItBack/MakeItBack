@@ -1,17 +1,18 @@
 
 <img alt="Banner image with cutout text and outdoor icons in background: Hello I'm Mike." src="banner.gif">
 
-👋 I've been busy teaching myself to be a web developer. **It's starting to get really fun!**<br>
+👋 I'm interviewing for Junior Front End dev jobs in Melbourne. **Lets talk!**<br>
 
 - 🔭 I’ve just built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
 - 🌱 I’m diving into React.js on [The Modern React Bootcamp][Bootcamp]
-- 👯 I’d love to contribute to a vanilla JS project
-- 🤔 I’m looking for help landing a junior dev job in Melbourne
+- 👯 I’d love to contribute to a vanilla JS project or something in React
+- 🤔 I’m looking for help building my network in Melbourne ... during a pandemic!
 - 💬 Ask me about being a self-taught web dev ... or [ultralight hiking gear](https://www.lighterfasterhire.com.au), or woodworking
 - ⚡ Fun fact: I once saw Oasis play in the back room of a pub
 - :mega: You can contact me on [WhatsApp](https://wa.me/61438651533) (or check out my portfolio page for more options)
 
-#### Check out my [Learning Tracker :chart_with_upwards_trend:][tracker] or head over to [mikeback.me][website] to see my [portfolio][website] or to get in touch
+### Check out my [Learning Tracker :chart_with_upwards_trend:][tracker] 
+### Head over to [mikeback.me][website] to see my [portfolio][website] or to get in touch
 
 ___
 
