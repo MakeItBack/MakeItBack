@@ -19,19 +19,19 @@ ___
 ### Tools and Tech
 
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
-[<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]<br>
+[<img align="left" height="32" width="32" alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][website]
+[<img align="left" height="32" width="32" alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][website]
+[<img align="left" height="32" width="32" alt="Bootstrap" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][website]
+[<img align="left" height="32" width="32" alt="Sass" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][website]
+[<img align="left" height="32" width="32" alt="jQuery" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />][website]
+[<img align="left" height="32" width="32" alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][website]
+[<img align="left" height="32" width="32" alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][website]
+[<img align="left" height="32" width="32" alt="Mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][website]
+[<img align="left" height="32" width="32" alt="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][website]
+[<img align="left" height="32" width="32" alt="Netlify" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />][website]
+[<img align="left" height="32" width="32" alt="Powershell" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />][website]
+[<img align="left" height="32" width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
+[<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]<br>
 
 ___
 
