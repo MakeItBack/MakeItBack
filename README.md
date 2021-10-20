@@ -1,18 +1,18 @@
 
 <img alt="Banner image with cutout text and outdoor icons in background: Hello I'm Mike." src="banner.gif">
 
-👋 I'm interviewing for Junior Front End dev jobs in Melbourne. **Lets talk!**<br>
+👋 Hi, thanks for dropping in, have a look around!<br>
 
-- 🔭 I’ve just built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
-- 🌱 I’m diving into React.js on [The Modern React Bootcamp][bootcamp]
+- 🛠️ I’ve just built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
+- 👨‍🎓 I’ve just started learning [Pipedream][pipedream] so I can build funky [Slack](https://slack.com/) integrations
 - 👯 I’d love to contribute to a vanilla JS project or something in React
-- 🤔 I’m looking for help building my network in Melbourne ... during a pandemic!
+- 🤔 I’m looking for help building my tech network in Melbourne ... during a pandemic!
 - 💬 Ask me about being a self-taught web dev ... or [ultralight hiking gear](https://www.lighterfasterhire.com.au), or woodworking
 - ⚡ Fun fact: I once saw Oasis play in the back room of a pub
-- :mega: You can contact me on [WhatsApp](https://wa.me/61438651533) (or check out my portfolio page for more options)
+- 📣: Check out my [portfolio site][portfolio] for ways to get in contact 👇
 
 ### Check out my [Learning Tracker :chart_with_upwards_trend:][tracker] 
-### Head over to [mikeback.me][website] to see my [portfolio][portfolio] or to get in touch
+### Head over to [mikeback.me][website] to see my [portfolio][website] or to get in touch
 
 ___
 
@@ -31,7 +31,8 @@ ___
 [<img align="left" height="32" width="32" alt="Netlify" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />][website]
 [<img align="left" height="32" width="32" alt="Powershell" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />][website]
 [<img align="left" height="32" width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
-[<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]<br>
+[<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
+[<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][website]<br>
 
 ___
 
@@ -44,4 +45,4 @@ ___
 [hacktoberfest]: https://hacktoberfest.digitalocean.com/
 [bootcamp]: https://www.udemy.com/course/modern-react-bootcamp/
 [portfolio]: https://github.com/MakeItBack/Portfolio-Site-fCC
-
+[pipedream]: https://github.com/PipedreamHQ/pipedream
