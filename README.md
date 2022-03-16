@@ -4,7 +4,7 @@
 👋 Hi, thanks for dropping in, have a look around!<br>
 
 - 🛠️ I’ve just built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
-- 👨‍🎓 I’ve just started learning [Pipedream][pipedream] so I can build funky [Slack](https://slack.com/) integrations
+- 👨‍🎓 I’m finding my way around AWS and about to take my [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam
 - 👯 I’d love to contribute to a vanilla JS project or something in React
 - 🤔 I’m looking for help building my tech network in Melbourne ... during a pandemic!
 - 💬 Ask me about being a self-taught web dev ... or [ultralight hiking gear](https://www.lighterfasterhire.com.au), or woodworking
@@ -32,7 +32,8 @@ ___
 [<img align="left" height="32" width="32" alt="Powershell" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />][website]
 [<img align="left" height="32" width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
 [<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
-[<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][website]<br>
+[<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][website]
+[<img align="left" height="32" width="32" alt="AWS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />][website]<br>
 
 ___
 
