@@ -4,7 +4,7 @@
 👋 Hi, thanks for dropping in, have a look around!<br>
 
 - 🛠️ I’ve just built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
-- 👨‍🎓 I’m finding my way around AWS and about to take my [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam
+- 👨‍🎓 I just passed my [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam!
 - 👯 I’d love to contribute to a vanilla JS project or something in React
 - 🤔 I’m looking for help building my tech network in Melbourne ... during a pandemic!
 - 💬 Ask me about being a self-taught web dev ... or [ultralight hiking gear](https://www.lighterfasterhire.com.au), or woodworking
