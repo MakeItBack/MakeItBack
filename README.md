@@ -7,7 +7,7 @@
 - 👨‍🎓 I just passed my [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam!
 - 👯 I’d love to contribute to a vanilla JS project or something in React
 - 🤔 I’m looking for help building my tech network in Melbourne ... during a pandemic!
-- 💬 Ask me about being a self-taught web dev ... or [ultralight hiking gear](https://www.lighterfasterhire.com.au), or woodworking
+- 💬 Ask me about being a self-taught dev ... or 🪚 or 🥾 or 🚲
 - 🎸 Fun fact: I once saw Oasis play in the back room of a pub
 - 📣: Check out my [portfolio site][portfolio] for ways to get in contact 👇
 
