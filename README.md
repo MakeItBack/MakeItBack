@@ -3,10 +3,10 @@
 
 👋 Hi, thanks for dropping in, have a look around!<br>
 
-- 🛠️ I’ve just built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
-- 👨‍🎓 I just passed my [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam!
-- 👯 I’d love to contribute to a vanilla JS project or something in React
-- 🤔 I’m looking for help building my tech network in Melbourne ... during a pandemic!
+- 🛠️ I built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
+- 👨‍🎓 I'm Learning Typescript and how to swim 🏊‍♂️ in a brand new data lake
+- 💪 I’d love to flex my new Typescript muscles, or contribute to a sustainability project. Or mapping, I love maps! 🗺️
+- 🤔 I’m looking for help with AWS Glue - got any good learning resources?
 - 💬 Ask me about being a self-taught dev ... or 🪚 or 🥾 or 🚲
 - 🎸 Fun fact: I once saw Oasis play in the back room of a pub
 - 📣: Check out my [portfolio site][portfolio] for ways to get in contact 👇
