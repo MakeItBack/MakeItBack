@@ -4,7 +4,7 @@
 👋 Hi, thanks for dropping in, have a look around!<br>
 
 - 🛠️ I built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
-- 👨‍🎓 I'm Learning Typescript and how to swim 🏊‍♂️ in a brand new data lake
+- 👨‍🎓 I'm Learning Typescript and how to 🏊‍♂️ in a brand new data lake
 - 💪 I’d love to flex my new Typescript muscles, or contribute to a sustainability project. Or mapping, I love maps! 🗺️
 - 🤔 I’m looking for help with AWS Glue - got any good learning resources?
 - 💬 Ask me about being a self-taught dev ... or 🪚 or 🥾 or 🚲
