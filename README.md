@@ -43,7 +43,7 @@ ___
 
 [<img align="left" height="150" width="150" alt="Hacktoberfest 2020 Forest badge" src="Tree Badge.png" />][hacktoberfest]<br>
 
-[tracker]: https://github.com/MakeItBack/Learning-Tracker
+[tracker]: https://github.com/MakeItBack/Learning-Tracker#readme
 [website]: https://www.mikeback.me
 [hacktoberfest]: https://hacktoberfest.digitalocean.com/
 [bootcamp]: https://www.udemy.com/course/modern-react-bootcamp/
