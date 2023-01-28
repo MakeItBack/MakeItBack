@@ -12,7 +12,7 @@
 - 📣: Check out my [portfolio site][portfolio] for ways to get in contact 👇
 
 ### Check out my [Learning Tracker :chart_with_upwards_trend:][tracker] 
-### Head over to [mikeback.me][website] to see my [portfolio][website] or to get in touch
+### Head over to [mikeback.me][website] to see my [web dev portfolio][website] or to get in touch
 
 ___
 
