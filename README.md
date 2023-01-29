@@ -21,6 +21,7 @@ ___
 [<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][website]
 [<img align="left" height="32" width="32" alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][website]
 [<img align="left" height="32" width="32" alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][website]
+[<img align="left" height="32" width="32" alt="Typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />][website]
 [<img align="left" height="32" width="32" alt="Bootstrap" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][website]
 [<img align="left" height="32" width="32" alt="Sass" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][website]
 [<img align="left" height="32" width="32" alt="jQuery" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />][website]
@@ -35,7 +36,8 @@ ___
 [<img align="left" height="32" width="32" alt="Powershell" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />][website]
 [<img align="left" height="32" width="32" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 [<img align="left" height="32" width="32" alt="Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][website]
-[<img align="left" height="32" width="32" alt="AWS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />][website]<br>
+[<img align="left" height="32" width="32" alt="AWS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />][website]
+[<img align="left" height="32" width="32" alt="Serverless" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />][website]<br>
 
 ___
 
