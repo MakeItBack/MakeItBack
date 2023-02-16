@@ -4,12 +4,12 @@
 👋 Hi, thanks for dropping in, have a look around!<br>
 
 - 🛠️ I built a [Trello web app](https://github.com/MakeItBack/Trello-Delete-App) that uses the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to delete multiple boards in one quick operation
-- 👨‍🎓 I'm Learning Typescript and how to 🏊‍♂️ in a brand new data lake
+- 👨‍🎓 I've just finished a TypeScript course and I'm learning about TS + React
 - 💪 I’d love to flex my new Typescript muscles, or contribute to a sustainability project. Or mapping, I love maps! 🗺️
-- 🤔 I’m looking for help with AWS Glue - got any good learning resources?
+- 🤔 I’m looking for help with ?
 - 💬 Ask me about being a self-taught dev ... or 🪚 or 🥾 or 🚲
 - 🎸 Fun fact: I once saw Oasis play in the back room of a pub
-- 📣: Check out my [portfolio site][portfolio] for ways to get in contact 👇
+- 📣: Check out my [web dev portfolio][portfolio] for ways to get in contact 👇
 
 ### Check out my [Learning Tracker :chart_with_upwards_trend:][tracker] 
 ### Head over to [mikeback.me][website] to see my [web dev portfolio][website] or to get in touch
