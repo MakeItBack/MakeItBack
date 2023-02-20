@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with ?
 - 💬 Ask me about being a self-taught dev ... or 🪚 or 🥾 or 🚲
 - 🎸 Fun fact: I once saw Oasis play in the back room of a pub
-- 📣: Check out my [web dev portfolio][portfolio] for ways to get in contact 👇
+- 📣 Check out my [web dev portfolio][portfolio] for ways to get in contact 👇
 
 ### Check out my [Learning Tracker :chart_with_upwards_trend:][tracker] 
 ### Head over to [mikeback.me][website] to see my [web dev portfolio][website] or to get in touch
